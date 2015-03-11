@@ -33,6 +33,7 @@ The color picker can be inserted into an HTML document as in the example below:
 * `color-options` - This parameter is an array of objects that represent the possible color options for the picker. Each object has two required fields, though additional fields can be included:
   * `color` - The name of the color. This will appear after "Color: " or whatever `color-text` is specified.
   * `hexColor` - The hex value of the color. This is the color that will appear inside the box corresponding to this color object. Note that each color is surrounded by a light-gray border, so near-white colors can be more easily seen.
+  
   If any of the color objects are invalid, they will not be displayed. If there are no valid color objects, the color picker will not display in any way.
 * `color-picked` - This optional parameter specifies an external function that will be executed whenever the user clicks on a color. Any such function should take in only one parameter, which is the color object corresponding to the selected color.
 
