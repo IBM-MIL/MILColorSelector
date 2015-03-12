@@ -4,7 +4,7 @@ MILColorPicker
 <p align="center">
 <img src="mil-color-picker.gif" alt="Animation" border=1 /></p>
 
-MILColorPicker is a reusable UI component written in AngularJS which defines a __color picker__ HTML element. The color picker creates a simple and intuitive visual interface, allowing users to easily view and select colors, and can be easily incorporated into a standard HTML form.
+MILColorPicker is a reusable UI component written as an AngularJS directive, which defines a __color picker__ HTML element. The color picker creates a simple and intuitive visual interface, allowing users to easily view and select colors, and can be easily incorporated into a standard HTML form.
 
 ## Installation
 
