@@ -29,6 +29,7 @@ The color selector can be inserted into an HTML document as in the example below
 ```
 
 * `name` - This optional parameter attaches a name to the color selector so its data can be used in a standard HTML form. The associated `value` is the `color` element of whatever color has been chosen by the user. In the above example, the possible values are `Red` or `Blue`.
+
 * `color-text` - This optional parameter indicates the text to appear in place of "Color" before the selected color's name is displayed. If no value is specified, "Color" will be used.
 * `color-options` - This parameter is an array of objects that represent the possible color options for the selector. Each object has two required fields, though additional fields can be included:
   * `color` - The name of the color. This will appear after "Color: " or whatever `color-text` is specified.
