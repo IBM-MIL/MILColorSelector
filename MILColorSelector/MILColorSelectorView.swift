@@ -1,10 +1,7 @@
-//
-//  MILColorSelectorView.swift
-//  MILUIDeveloper
-//
-//  Created by Ruslan Ardashev on 7/8/15.
-//  Copyright (c) 2015 IBM. All rights reserved.
-//
+/*
+*  Licensed Materials - Property of IBM
+*  © Copyright IBM Corporation 2015. All Rights Reserved.
+*/
 
 import UIKit
 import WebKit
